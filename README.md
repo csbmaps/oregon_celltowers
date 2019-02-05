@@ -1,2 +1,2 @@
-# oregon_celltowers_airports
-Cell towers and airports in the state of Oregon
+# oregon_celltowers
+Cell towers in the state of Oregon
